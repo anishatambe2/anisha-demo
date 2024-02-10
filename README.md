@@ -1,4 +1,4 @@
 # anisha-demo
 This is my first Git Repository.
 <br>
-Author - Anisha Tambe
+Author - Anisha (Anu Tambe)
